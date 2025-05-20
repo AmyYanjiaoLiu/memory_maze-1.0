@@ -15,4 +15,4 @@ GRID_OFFSET_Y = 50
 
 # Color presets
 WHITE = (255, 255, 255)
-DARK_BLUE = (30, 30, 60)
+DARK_BLUE = (30, 30, 90)
