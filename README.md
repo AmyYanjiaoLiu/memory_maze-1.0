@@ -14,7 +14,7 @@ At the start of each level, the game briefly shows you the locations of all hidd
 - ❌ Incorrect selections display a red cross and reduce your lives
 - ❤️ You start each level with **three lives**
 
-The grid size and the number of symbols increase with each level, making the game more challenging over time. If you lose all your lives, it's game over. Complete all 20 levels to win!
+The grid size and the number of symbols increase with each level, making the game more challenging over time. If you lose all your lives, it's game over. Enjoy this unlimited levels of Maze game!
 
 ---
 
